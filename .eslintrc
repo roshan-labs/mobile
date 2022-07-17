@@ -1,0 +1,3 @@
+{
+  "extends": ["@roshan-labs/eslint-config"]
+}
