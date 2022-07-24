@@ -1,3 +1,3 @@
 <template>
-  <van-button type="primary">Button</van-button>
+  <div>Mobile App</div>
 </template>

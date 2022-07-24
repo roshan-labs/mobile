@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# 移动端项目模板
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+Nuxt3 移动端起手模板，方便专注业务逻辑
 
 ## Setup
 
